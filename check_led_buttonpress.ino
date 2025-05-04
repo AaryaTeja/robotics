@@ -7,6 +7,7 @@ void setup() {
   pinMode(12, OUTPUT);
 }
 
+
 void loop() {
   data = digitalRead(6);
 
